@@ -1,0 +1,1 @@
+This project contains get, post and delete routes. You can now create and delete todo list for today and for custom list. Custom list can be added to the home route (ex: /work). Using MongoDB Altas cloud database the data is collected.
